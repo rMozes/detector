@@ -1,0 +1,3 @@
+CHANGED,/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/opencv/samples/tutorial1/Tutorial1Activity$override.class
+CHANGED,/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/opencv/samples/tutorial1/Tutorial1Activity$1$override.class
+CHANGED,/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

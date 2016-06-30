@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/exploded-aar/tutorial-1-camerapreview1/scanlibrary/unspecified/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/res/merged/debug/drawable-mdpi-v4/gallery.png",
+        "source": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/exploded-aar/tutorial-1-camerapreview1/scanlibrary/unspecified/res/drawable-mdpi-v4/gallery.png"
+    },
+    {
+        "merged": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/res/merged/debug/drawable-mdpi-v4/camera.png",
+        "source": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/exploded-aar/tutorial-1-camerapreview1/scanlibrary/unspecified/res/drawable-mdpi-v4/camera.png"
+    }
+]

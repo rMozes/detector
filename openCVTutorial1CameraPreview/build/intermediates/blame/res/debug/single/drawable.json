@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/res/merged/debug/drawable/circle.xml",
+        "source": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/exploded-aar/tutorial-1-camerapreview1/scanlibrary/unspecified/res/drawable/circle.xml"
+    }
+]

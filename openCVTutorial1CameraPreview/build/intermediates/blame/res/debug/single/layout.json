@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/res/merged/debug/layout/scan_layout.xml",
+        "source": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/exploded-aar/tutorial-1-camerapreview1/scanlibrary/unspecified/res/layout/scan_layout.xml"
+    },
+    {
+        "merged": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/res/merged/debug/layout/tutorial1_surface_view.xml",
+        "source": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/res/layout/tutorial1_surface_view.xml"
+    },
+    {
+        "merged": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/res/merged/debug/layout/pick_image_fragment.xml",
+        "source": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/exploded-aar/tutorial-1-camerapreview1/scanlibrary/unspecified/res/layout/pick_image_fragment.xml"
+    },
+    {
+        "merged": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/res/merged/debug/layout/result_layout.xml",
+        "source": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/exploded-aar/tutorial-1-camerapreview1/scanlibrary/unspecified/res/layout/result_layout.xml"
+    },
+    {
+        "merged": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/res/merged/debug/layout/scan_fragment_layout.xml",
+        "source": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/exploded-aar/tutorial-1-camerapreview1/scanlibrary/unspecified/res/layout/scan_fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/res/merged/debug/layout/activity_resize.xml",
+        "source": "/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/res/layout/activity_resize.xml"
+    }
+]

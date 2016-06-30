@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:3:11-49
+		INJECTED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml
+		INJECTED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:5:11-37
+		INJECTED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml
+		INJECTED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:4:11-36
+		INJECTED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml
+		INJECTED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:7:5-26:19
+	android:label
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:9:9-38
+	android:largeHeap
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:11:9-33
+	android:theme
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:10:9-67
+activity#org.opencv.samples.tutorial1.Tutorial1Activity
+ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:13:9-21:20
+	android:screenOrientation
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:15:19-56
+	android:label
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:14:19-51
+	android:configChanges
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:16:19-69
+	android:name
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:13:19-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:19:27-74
+activity#org.opencv.samples.tutorial1.ResizeActivity
+ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:23:9-24:52
+	android:screenOrientation
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:24:13-50
+	android:name
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:23:19-49
+supports-screens
+ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:28:5-32:51
+	android:largeScreens
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:31:23-50
+	android:smallScreens
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:29:23-50
+	android:normalScreens
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:30:23-51
+	android:resizeable
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:28:23-48
+	android:anyDensity
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:32:23-48
+uses-sdk
+ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:34:5-43
+MERGED from [tutorial-1-camerapreview1:openCVLibrary300:unspecified] /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/exploded-aar/tutorial-1-camerapreview1/openCVLibrary300/unspecified/AndroidManifest.xml:7:5-9:40
+MERGED from [tutorial-1-camerapreview1:scanlibrary:unspecified] /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/exploded-aar/tutorial-1-camerapreview1/scanlibrary/unspecified/AndroidManifest.xml:17:5-19:41
+	android:targetSdkVersion
+		INJECTED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml
+		INJECTED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:34:15-40
+		INJECTED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml
+		INJECTED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:36:5-64
+	android:name
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:36:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:38:5-84
+MERGED from [tutorial-1-camerapreview1:scanlibrary:unspecified] /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/exploded-aar/tutorial-1-camerapreview1/scanlibrary/unspecified/AndroidManifest.xml:21:5-23:35
+	android:required
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:38:58-82
+	android:name
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:38:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:39:5-94
+	android:required
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:39:68-92
+	android:name
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:39:19-67
+uses-feature#android.hardware.camera.front
+ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:40:5-90
+	android:required
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:40:64-88
+	android:name
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:40:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:41:5-100
+	android:required
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:41:74-98
+	android:name
+		ADDED from /Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/AndroidManifest.xml:41:19-73
