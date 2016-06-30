@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/richimozes/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations-java5/15.0/7011b4551a8451906759b05814c58b9eb829ea9b/annotations-java5-15.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/pre-dexed/debug/annotations-java5-15.0_e58ee1e2694cb94b22358aa7572818ed50a7a1a8.jar" />
+    </item>
+    <item
+        jar="/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/exploded-aar/tutorial-1-camerapreview1/scanlibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dfee0d2fcc2d5a220ee5f631f0ebd0ab7ef072ce">
+        <dex dex="/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/pre-dexed/debug/tutorial-1-camerapreview1-scanlibrary-unspecified_cfb65e0cdc0a5fe8210712222078930bf15b4a1c.jar" />
+    </item>
+    <item
+        jar="/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/exploded-aar/tutorial-1-camerapreview1/openCVLibrary300/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="605745f2241aa9e1277a082a2d5f293bff0a78b1">
+        <dex dex="/Users/richimozes/Downloads/AndroidScannerDemo-master/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/pre-dexed/debug/tutorial-1-camerapreview1-openCVLibrary300-unspecified_8e48f5ec96cef09d6e316aaf9bc1d861321e7ef8.jar" />
+    </item>
+
+</items>
