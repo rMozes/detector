@@ -189,6 +189,7 @@
 package org.opencv.samples.tutorial1;
 
 import org.opencv.android.CameraBridgeViewBase.CvCameraViewFrame;
+import org.opencv.android.Utils;
 import org.opencv.core.Mat;
 import org.opencv.android.CameraBridgeViewBase.CvCameraViewListener2;
 import org.opencv.core.MatOfPoint;
@@ -301,11 +302,22 @@ public class Tutorial1Activity extends Activity implements CameraView.CameraList
 
     @Override
     public void onPictureTaken(byte[] data, int _format) {
-        Bitmap bitmap = BitmapFactory.decodeByteArray(data, 0, data.length);
-        if (bitmap == null) {
-            Toast.makeText(this, "Bitmap is null", Toast.LENGTH_SHORT).show();
+        BitmapFactory.Options options = new BitmapFactory.Options();
+        options.inJustDecodeBounds = true;
+        Bitmap test = BitmapFactory.decodeByteArray(data, 0, data.length);
+
+        options = new BitmapFactory.Options();
+        double size = (test.getWidth() / 640);
+        if (size < 1)
+            size = 1;
+
+        options.inSampleSize = (int) size;
+        final Bitmap bitmap = BitmapFactory.decodeByteArray(data, 0, data.length, options);
+        if (bitmap == null)
             return;
-        }
+
+        Mat imgSource = new Mat();
+        Utils.bitmapToMat(bitmap, imgSource);
 
         List<Point> points = mDetector.findLargestRectangle(bitmap);
 

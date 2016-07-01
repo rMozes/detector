@@ -20,6 +20,7 @@ import org.opencv.android.OpenCVLoader;
 import org.opencv.core.Point;
 
 import java.io.IOException;
+import java.nio.ByteBuffer;
 import java.util.ArrayList;
 import java.util.List;
 

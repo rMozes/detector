@@ -116,8 +116,6 @@ public class ContourDetector {
     public List<Point> findLargestRectangle(Bitmap _bitmap) {
         List<Point> points = new ArrayList<>();
 
-//        Bitmap bitmap = Bitmap.createScaledBitmap(_bitmap, 640, 480, false);
-
         Mat imgSource = new Mat();
         Utils.bitmapToMat(_bitmap, imgSource);
         if (imgSource.empty())
@@ -136,7 +134,10 @@ public class ContourDetector {
         return points;
     }
 
-    public List<Point> findLargestRectangleWithLocalTransform(byte[] _data, Point _previewSize, Point _screenSize, int _format) {
+    public List<Point> findLargestRectangleWithLocalTransform(byte[] _data,
+                                                              Point _previewSize,
+                                                              Point _screenSize,
+                                                              int _format) {
         List<Point> points = new ArrayList<>();
 
         Mat imgSource = convertBytesToMat(_data, _previewSize, _format);
@@ -150,7 +151,8 @@ public class ContourDetector {
         if (maxCurve == null)
             return points;
 
-        points = convertMatOfPointToPointsWithTransform(maxCurve, new Point(imgSource.cols(), imgSource.rows()), _screenSize);
+        points = convertMatOfPointToPointsWithTransform(maxCurve, new Point(imgSource.cols(),
+                imgSource.rows()), _screenSize);
 
         return points;
     }
